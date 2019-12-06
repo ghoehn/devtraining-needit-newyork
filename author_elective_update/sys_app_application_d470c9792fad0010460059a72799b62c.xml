@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>x_58872_needit_need it</name>
+        <order>100</order>
+        <roles>user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 15:43:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d470c9792fad0010460059a72799b62c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Need it</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_d470c9792fad0010460059a72799b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 16:18:07</sys_updated_on>
+        <title>Need it</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>f8c430eddb29005c387021c4059619a0</instance_id>
+        <instance_name>dev95743</instance_name>
+        <name>sys_app_application_d470c9792fad0010460059a72799b62c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>x_58872_needit_need it</name><order>100</order><roles>user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-06 15:43:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d470c9792fad0010460059a72799b62c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Need it</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_d470c9792fad0010460059a72799b62c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-06 16:18:07</sys_updated_on><title>Need it</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1522324725</payload_hash>
+        <record_name>Need it</record_name>
+        <reverted_from/>
+        <source>7a8e78752fad0010460059a72799b680</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 16:18:07</sys_created_on>
+        <sys_id>e258cdf12fed0010460059a72799b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16edc010f9d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 16:18:07</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>6e58cdf1b4ed00105ca815a5fad001ae</update_guid>
+        <update_guid_history>6e58cdf1b4ed00105ca815a5fad001ae:-1522324725,d070c979e5ad0010f1aa45baf526f12e:-1770414629</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Need it">25c841352fed0010460059a72799b652</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-06 16:19:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>2b98ba2d5a1b480895144adfbf3d8a10</sys_id>
+        <sys_metadata>d470c9792fad0010460059a72799b62c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need it</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_d470c9792fad0010460059a72799b62c</sys_update_name>
+        <sys_update_version display_value="sys_app_application_d470c9792fad0010460059a72799b62c">e258cdf12fed0010460059a72799b6af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-06 16:19:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
